@@ -1,35 +1,35 @@
-# Nalanda - Portfólio
+# Heleno Junior - Portfólio
 
-Este é um projeto de portfólio pessoal construído para apresentar minhas experiências, projetos e habilidades como Desenvolvedora Front-End e UI/UX.
+Este é um projeto de portfólio pessoal desenvolvido para apresentar minhas experiências, projetos e habilidades como desenvolvedor.
 
-## Link de Acesso para o Repositório
+## 🔗 Link do Repositório
 
-O código fonte do projeto pode ser acessado através do seguinte link no GitHub:
+O código fonte deste projeto pode ser acessado no GitHub:
 
-[Nalanda - Portifolio-26](https://github.com/NalandaLiu/Portifolio-26/tree/main)
+[Portfólio Profissional - Heleno Junior](https://github.com/HelenoJuniorFernandes/Portfo-lio-Profissional-Heleno)
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
-Este projeto foi construído com as seguintes tecnologias:
+Este projeto foi construído utilizando as seguintes tecnologias:
 
-- **HTML5**: Para a estruturação semântica do conteúdo web.
-- **CSS3**: Para a estilização visual e layout das páginas.
-- **Bootstrap 5**: Framework CSS utilizado para garantir a responsividade e o uso de componentes pré-construídos.
+* **HTML5** – Estrutura semântica da página.
+* **CSS3** – Estilização e layout do site.
+* **Bootstrap 5** – Framework utilizado para responsividade e componentes prontos.
 
-## Dependências e Bibliotecas
+## 📚 Dependências e Bibliotecas
 
-As principais dependências e bibliotecas utilizadas neste projeto incluem:
+As principais bibliotecas utilizadas neste projeto incluem:
 
-- **Bootstrap (via CDN)**: Para a construção da interface do usuário de forma responsiva.
-- **Bootstrap Icons**: Para a iconografia do site (redes sociais, botões, etc.).
-- **Google Fonts**: Utilização da fonte "Inter" para a tipografia.
+* **Bootstrap (via CDN)** – Interface responsiva e moderna.
+* **Bootstrap Icons** – Ícones para redes sociais e elementos da interface.
+* **Google Fonts** – Fonte "Inter" utilizada na tipografia.
 
-## Estrutura de Diretórios do Projeto
+## 📂 Estrutura do Projeto
 
-A estrutura de diretórios do projeto está organizada da seguinte forma:
+A estrutura de diretórios está organizada da seguinte forma:
 
 ```
-Portifolio-26/
+Portfo-lio-Profissional-Heleno/
 ├── lab_proj/
 │   ├── assets/
 │   │   └── img/
@@ -39,43 +39,53 @@ Portifolio-26/
 └── README.md
 ```
 
-## Instruções de Instalação e Execução Localmente
+## ▶️ Como Executar o Projeto
 
-Para visualizar e executar o projeto localmente, não é necessário um ambiente de desenvolvimento complexo, pois se trata de uma aplicação web estática. Siga os passos abaixo:
+Este é um projeto web estático, portanto não necessita de configuração complexa.
 
-1.  **Clone o repositório:**
+### 1. Clone o repositório
 
-    ```bash
-    git clone [https://github.com/NalandaLiu/Portifolio-26.git](https://github.com/NalandaLiu/Portifolio-26.git)
-    cd Portifolio-26
-    ```
+```bash
+git clone https://github.com/HelenoJuniorFernandes/Portfo-lio-Profissional-Heleno.git
+cd Portfo-lio-Profissional-Heleno
+```
 
-2.  **Execute o projeto:**
-    
-    Como o projeto é feito com HTML e CSS puros, você pode simplesmente abrir o arquivo `index.html` localizado na pasta `lab_proj/` diretamente no seu navegador de preferência.
+### 2. Execute o projeto
 
-    **Alternativa (Live Server):**
-    Se estiver usando o Visual Studio Code, você pode instalar a extensão **Live Server**
+Abra o arquivo `index.html` localizado dentro da pasta `lab_proj/` diretamente no navegador.
 
-## Telas do Projeto
+### Alternativa (VS Code)
 
-**Figma**
+Caso utilize **Visual Studio Code**, você pode usar a extensão **Live Server** para rodar o projeto localmente.
+
+## 🎨 Protótipo no Figma
+
+O design do projeto pode ser visualizado no Figma:
+
 https://www.figma.com/design/SW509218LvQkS5taqeN3Cy/Portfolio?node-id=1-2&t=mrNCcNjGCVSobvMt-1
 
-**Página Inicial (Home):**
+## 📸 Telas do Projeto
+
+### Página Inicial
+
 ![Home](Figma/figma_1.png)
 
-**Sobre Mim:**
+### Sobre Mim
+
 ![Sobre Mim](Figma/figma_2.png)
 
-**Projetos:**
+### Projetos
+
 ![Projetos](Figma/figma_3.png)
 
-**Experiências e Certificados:**
+### Experiências e Certificados
+
 ![Experiências](Figma/figma_4.png)
 
-**Idiomas:**
+### Idiomas
+
 ![Idiomas](Figma/figma_5.png)
 
-**Contato:**
+### Contato
+
 ![Contato](Figma/figma_6.png)
