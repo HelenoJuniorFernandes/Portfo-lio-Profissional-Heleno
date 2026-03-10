@@ -39,14 +39,14 @@ h4{color: #2B32B2;
 }
 
 .hero {
-    height: 90vh;
-    background: url('../assets/img/3d.jpg') no-repeat center center;
+    /* Como o CSS está dentro da pasta 'css', o '../' faz ele voltar uma pasta para achar a imagem */
+    background-image: url('../assets/img/3d.png'); 
     background-size: cover;
-    position: relative;
-    padding-top: 80px;
-    display: flex;
-    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
+
 
 .section-padding {
     padding: 100px 0;
